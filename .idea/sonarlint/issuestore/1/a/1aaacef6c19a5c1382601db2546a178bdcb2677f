@@ -1,0 +1,8 @@
+
+g	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ò­¬ñ1
+m	java:S116"QRename this field "READER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÌÑ—Ï8û­¬ñ1
+L	java:S106"+Replace this use of System.out by a logger.(†áù‡ùÿÿÿÿ8ÿ­¬ñ1
+L	java:S106#"+Replace this use of System.out by a logger.(òÕı´ûÿÿÿÿ8€­¬ñ1
+L	java:S106%"+Replace this use of System.out by a logger.(˜½Â®ùÿÿÿÿ8€­¬ñ1
+L	java:S106("+Replace this use of System.out by a logger.(ˆûç˜úÿÿÿÿ8­¬ñ1
+G	java:S106+"+Replace this use of System.out by a logger.(ÖÕÿú8­¬ñ1

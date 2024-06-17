@@ -1,1 +1,1 @@
-# patterns
+# Learning about patterns with implementations
